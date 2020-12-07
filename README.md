@@ -12,6 +12,7 @@
 
 
 <br />
+<br />
 
 ---
 
@@ -63,7 +64,7 @@
 
 
 [website]: https://flaviorocha.com/
-[linkedin]: https://www.linkedin.com/in/sabesan96
+[linkedin]: https://www.linkedin.com/in/flavio-rocha-bb0b53171/
 [email]: email@flaviorocha.com
 [whatsapp]:https://wa.me/12982822978
 
