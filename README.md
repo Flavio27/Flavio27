@@ -1,6 +1,5 @@
 # Hello, I'm Flavio Rocha ! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="25" />
 #### Front-end  Web Developer -  [About Flavio][website] 
-
 <br />
 
 ### **Socials**
@@ -8,8 +7,8 @@
 
 [<img align="left" alt="Flavio" height="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Flavio | LinkedIn" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Flavio | Email" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="Flavio | Whatsapp" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+##### email@flaviorocha.com
 
 <br />
 <br />
