@@ -1,16 +1,19 @@
 # Hello, I'm Flavio Rocha ! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="25" />
 ### Front-end  Web Developer -  [About Flavio][website] 
 
-
-### Socials
-
-
-[<img align="left" alt="Flavio" height="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Flavio | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Flavio | Email" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="Flavio | Whatsapp" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+<br />
+<br />
 
 
+### **Socials**
+
+
+[<img align="left" alt="Flavio" height="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Flavio | LinkedIn" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Flavio | Email" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Flavio | Whatsapp" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+
+<br />
 <br />
 
 
@@ -30,7 +33,11 @@
 [<code>
 <img alt="react" width="100px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
----
+[<code>
+<img alt="json" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+</code>](https://www.json.org/json-en.html)
+
+----
 <br />
 <br />
 
@@ -40,9 +47,6 @@
 [<code>
 <img alt="sass" width="100px" src="https://img.icons8.com/color/240/000000/sass.png">
 </code>](https://sass-lang.com/)
-[<code>
-<img alt="json" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
 [<code>
 <img alt="Node.js" width="100px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
