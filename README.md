@@ -39,7 +39,6 @@
 
 ----
 <br />
-<br />
 
 [<code>
 <img alt="typescript" width="100px" src="https://img.icons8.com/color/240/000000/typescript.png">
