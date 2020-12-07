@@ -18,7 +18,6 @@
 ### Languages and Tools which i have had worked:
 
 ---
-
 #### Main Skills
 [<code>
 <img alt="javascript" width="100px" src="https://img.icons8.com/color/240/000000/javascript.png" />
@@ -32,7 +31,7 @@
 [<code>
 <img alt="react" width="100px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
-
+---
 
 
 [<code>
