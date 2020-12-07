@@ -15,7 +15,7 @@
 <br />
 
 
-### Languages and Tools which i have had worked:
+### Languages and Tools which i have had worked
 
 ---
 #### **Main Skills**
