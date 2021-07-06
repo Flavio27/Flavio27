@@ -33,13 +33,13 @@
 <img alt="css3" width="100px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
-<code>
-<img alt="Node.js" width="100px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
 [<code>
 <img alt="react" width="100px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
+<code>
+<img alt="Node.js" width="100px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+</code>](https://nodejs.org/en/)
 <img alt="sass" width="100px" src="https://img.icons8.com/color/240/000000/sass.png">
 </code>](https://sass-lang.com/)
 
