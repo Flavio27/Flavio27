@@ -43,10 +43,6 @@
 [<code>
 <img alt="sass" width="100px" src="https://img.icons8.com/color/240/000000/sass.png">
 </code>](https://sass-lang.com/)
-
-----
-<br />
-
 [<code>
 <img alt="Git" width="100px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
@@ -56,9 +52,8 @@
 [<code>
 <img alt="visual studio code" width="100px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
-
----
-
+  
+----
 
 
 [website]: https://flaviorocha.com/
