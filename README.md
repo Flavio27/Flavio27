@@ -1,4 +1,4 @@
-# Hello, I'm Flavio Rocha ! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="25" />
+# Hello, I'm Flavio Rocha ! 🤚
 #### Front-end  Web Developer -  [About Flavio][website] 
 <br />
 
