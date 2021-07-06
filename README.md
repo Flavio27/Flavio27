@@ -47,10 +47,6 @@
 ----
 <br />
 
-<img alt="MySQL" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-
-
 [<code>
 <img alt="Git" width="100px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
