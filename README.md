@@ -40,7 +40,7 @@
 <code>
 <img alt="Node.js" width="100px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
-[<code>
+<code>
 <img alt="sass" width="100px" src="https://img.icons8.com/color/240/000000/sass.png">
 </code>](https://sass-lang.com/)
 
