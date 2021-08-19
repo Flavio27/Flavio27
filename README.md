@@ -1,7 +1,5 @@
 # console.log("Hi! i'm Flavio Rocha 😀");
-### Front-end developer
-
-<br>
+Front-end Developer, extremely passionate about technology and innovation, always trying to keep up to date with the newest technologies in the market. Always looking for new challenges to improve my knowledge. Working since 2015 as a web developer mainly in the front-end area.
 
 ## 🔹 Socials
 
