@@ -1,66 +1,48 @@
-# Hello, I'm Flavio Rocha ! 🤚
-#### Front-end  Web Developer -  [About Flavio][website] 
-<br />
+# console.log("Hi! i'm Flavio Rocha 😀");
+### Front-end developer
 
-### **Socials**
+<br>
 
+## 🔹 Socials
 
-[<img align="left" alt="Flavio" height="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Flavio | LinkedIn" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Flavio | Whatsapp" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-<br />
-#### email@flaviorocha.com
+<div style="display: inline_block"> 
+    <a href = "mailto:email@flaviorocha.com">
+      <img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+    </a>
+   <a href="https://wa.me/12982822978" target="_blank">
+     <img src="https://img.shields.io/badge/Whatsapp-282A36?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank">
+    </a> 
+   <a href="https://flaviorocha.com" target="_blank">
+     <img src="https://img.shields.io/badge/website-282A36?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank">
+     </a> 
+    <a href="https://www.linkedin.com/in/flavio-rocha-bb0b53171/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+</div>
 
-<br />
-<br />
+<br>
+<br>
 
+## 🔹 Experience
 
-### Languages and Tools which i have had worked
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="Flavio-Js" height="50" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Flavio-Ts" height="50" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Flavio-React" height="50" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" style="background: white; border-radius: 100%" alt="Flavio-NextJS" height="50" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Flavio-NodeJS" height="50" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Flavio-HTML" height="50" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Flavio-CSS" height="50" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Flavio-Scss" height="50" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+</div>
 
----
-#### **Main Skills**
-[<code>
-<img alt="javascript" width="100px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<code>
-<img alt="typescript" width="100px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-[<code>
-<img alt="html5" width="100px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="100px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<code>
-<img alt="react" width="100px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<code>
-<img alt="Node.js" width="100px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="sass" width="100px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="Git" width="100px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="100px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="visual studio code" width="100px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-  
+<br>
+<br>
 
-[website]: https://flaviorocha.com/
-[linkedin]: https://www.linkedin.com/in/flavio-rocha-bb0b53171/
-[email]: email@flaviorocha.com
-[whatsapp]:https://wa.me/12982822978
+## 🔹 GitHub Stats
 
-
-
-
-
-
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavio27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio27&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
